@@ -188,7 +188,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e6a3a99e51c6a2343b37e75cb8fd3e36, type: 3}
       propertyPath: m_Name
-      value: a104
+      value: CuboneModel
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6a3a99e51c6a2343b37e75cb8fd3e36, type: 3}
@@ -585,6 +585,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1568710229 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e6a3a99e51c6a2343b37e75cb8fd3e36, type: 3}
+  m_PrefabInstance: {fileID: 345514943}
+  m_PrefabAsset: {fileID: 0}
+--- !u!111 &1568710230
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1568710229}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: -203655887218126122, guid: a960c886db20ee94788f5eb550b52d78, type: 3}
+  m_Animations:
+  - {fileID: -203655887218126122, guid: a960c886db20ee94788f5eb550b52d78, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1594523732
 GameObject:
   m_ObjectHideFlags: 0
