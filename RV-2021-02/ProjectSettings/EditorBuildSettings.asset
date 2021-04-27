@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: "Assets/Scenes/Men\xFA/Men\xFA.unity"
     guid: ae42e5eeb6843384e9d64a555cfda9af
   - enabled: 1
-    path: Assets/Scenes/Croconaw/Croconaw.unity
+    path: Assets/Scenes/Pikachu/Pikachu.unity
     guid: e03624810233e4340a61e89eacb48cee
   - enabled: 1
     path: Assets/Scenes/Mew/Mew.unity
