@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 10859849}
   - component: {fileID: 10859848}
   m_Layer: 5
-  m_Name: Mew
+  m_Name: Mewtwo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -489,7 +489,7 @@ GameObject:
   - component: {fileID: 156239494}
   - component: {fileID: 156239493}
   m_Layer: 5
-  m_Name: TextoMew
+  m_Name: TextoMewtwo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -536,7 +536,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 4196e28ef19d07a409fb3d6dc01f3529, type: 3}
-    m_FontSize: 20
+    m_FontSize: 18
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -547,7 +547,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Mew
+  m_Text: Mewtwo
 --- !u!222 &156239494
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -663,7 +663,7 @@ GameObject:
   - component: {fileID: 309879426}
   - component: {fileID: 309879425}
   m_Layer: 5
-  m_Name: TextoCroconaw
+  m_Name: TextoPikachu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -721,7 +721,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Croconaw
+  m_Text: 'Pikachu
+
+'
 --- !u!222 &309879426
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1818,7 +1820,7 @@ GameObject:
   - component: {fileID: 1492696627}
   - component: {fileID: 1492696626}
   m_Layer: 5
-  m_Name: Croconaw
+  m_Name: Pikachu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

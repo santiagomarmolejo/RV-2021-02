@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Pikachu/Pikachu.unity
     guid: e03624810233e4340a61e89eacb48cee
   - enabled: 1
-    path: Assets/Scenes/Mew/Mew.unity
+    path: Assets/Scenes/Mewtwo/Mewtwo.unity
     guid: 75c7b40bae42bb944b7ef917620b1998
   - enabled: 1
     path: Assets/Scenes/Cubone/Cubone.unity
